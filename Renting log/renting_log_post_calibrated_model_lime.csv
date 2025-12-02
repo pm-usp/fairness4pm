@@ -1,0 +1,86 @@
+Feature,Importance_High,Importance_Medium,Importance_Low
+yearsOfEducation_Secondary Education,0.0,-0.004946750074586672,0.0
+Real Estate Agent 1 -> Real Estate Agent 3,0.0,-0.004827241612115313,0.0
+Lawyer 3 -> Real Estate Agent 4,0.0,0.011077918263172254,0.0
+Lawyer 3 -> Real Estate Agent 5,0.0,0.004241541596335304,0.0
+Real Estate Agent 1 -> Hotline,0.0,-0.007683883312996492,0.0
+Real Estate Agent 1 -> Lawyer 1,0.0,-0.001603535543912265,0.0
+Real Estate Agent 1 -> Lawyer 2,0.0,-0.002334745102497965,0.0
+Real Estate Agent 1 -> Lawyer 3,0.0,0.001727517433463173,0.0
+Real Estate Agent 1 -> Real Estate Agent 1,0.0,0.0039042056572801574,0.0
+Real Estate Agent 1 -> Real Estate Agent 2,0.0,0.00010224568860166062,0.0
+Real Estate Agent 1 -> Real Estate Agent 4,0.0,-0.0037043667355411585,0.0
+Real Estate Agent 2 -> Real Estate Agent 5,0.0,0.0014901634819528742,0.0
+Real Estate Agent 1 -> Real Estate Agent 5,0.0,-0.0006975527812547236,0.0
+Real Estate Agent 2 -> Hotline,0.0,-0.0013364648609881387,0.0
+Real Estate Agent 2 -> Lawyer 1,0.0,-0.00942601745790856,0.0
+Real Estate Agent 2 -> Lawyer 2,0.0,-0.003290652508806567,0.0
+Real Estate Agent 2 -> Lawyer 3,0.0,0.023172656034264567,0.0
+Real Estate Agent 2 -> Real Estate Agent 1,0.0,-0.006043388387733077,0.0
+Real Estate Agent 2 -> Real Estate Agent 2,0.0,0.0073732906649264145,0.0
+Real Estate Agent 2 -> Real Estate Agent 3,0.0,0.0023182351360794785,0.0
+Lawyer 3 -> Real Estate Agent 3,0.0,0.0014195644002238529,0.0
+Lawyer 3 -> Real Estate Agent 2,0.0,-0.002319959699109043,0.0
+Lawyer 3 -> Real Estate Agent 1,0.0,-0.006251630557180569,0.0
+Lawyer 2 -> Real Estate Agent 5,0.0,-0.009332941943873222,0.0
+Check Paperwork -> Screen Prospective Tenant,0.0,0.0,0.0
+Hand In The Paperwork -> Check Paperwork,0.0,0.0,0.0
+Hotline -> Hotline,0.0,0.00033676721809719967,0.0
+Hotline -> Real Estate Agent 1,0.0,-0.009019918969261366,0.0
+Hotline -> Real Estate Agent 2,0.0,0.0071841506367384,0.0
+Hotline -> Real Estate Agent 3,0.0,-0.011005213177020547,0.0
+Hotline -> Real Estate Agent 4,0.0,0.011543163289003299,0.0
+Hotline -> Real Estate Agent 5,0.0,0.0030692382343687472,0.0
+Lawyer 1 -> Real Estate Agent 1,0.0,-0.004462050033949634,0.0
+Lawyer 1 -> Real Estate Agent 2,0.0,0.001423200650985158,0.0
+Lawyer 1 -> Real Estate Agent 3,0.0,0.025095249278805676,0.0
+Lawyer 1 -> Real Estate Agent 4,0.0,-0.00871096732685504,0.0
+Lawyer 1 -> Real Estate Agent 5,0.0,0.020610262401450946,0.0
+Lawyer 2 -> Real Estate Agent 1,0.0,0.006241397091102027,0.0
+Lawyer 2 -> Real Estate Agent 2,0.0,0.0016590882735313737,0.0
+Lawyer 2 -> Real Estate Agent 3,0.0,-0.0010019501918400286,0.0
+Lawyer 2 -> Real Estate Agent 4,0.0,-0.002699910393388072,0.0
+Real Estate Agent 2 -> Real Estate Agent 4,0.0,-0.005485797962774969,0.0
+Real Estate Agent 3 -> Hotline,0.0,-0.028833434586167127,0.0
+yearsOfEducation_Postgraduate Education,0.0,-0.005261803823415763,0.0
+age_Pre-Retirement,0.0,-0.006705508484990558,0.0
+Real Estate Agent 5 -> Real Estate Agent 2,0.0,0.0007815275075428935,0.0
+Real Estate Agent 5 -> Real Estate Agent 3,0.0,0.01103315356383007,0.0
+Real Estate Agent 5 -> Real Estate Agent 4,0.0,0.014715445883117625,0.0
+Real Estate Agent 5 -> Real Estate Agent 5,0.0,-0.009639449970722807,0.0
+Screen Prospective Tenant -> Extensive Screening,0.0,-0.0012957915432467084,0.0
+Set Appointment -> View The Property,0.0,0.0,0.0
+View The Property -> Hand In The Paperwork,0.0,0.0,0.0
+age_Middle-Aged Adult,0.0,-0.0034416056812661064,0.0
+age_Retired,0.0,0.0028741846392440476,0.0
+Real Estate Agent 3 -> Lawyer 1,0.0,0.004197952830078685,0.0
+age_Young Adult,0.0,0.005747270121038704,0.0
+case:citizen,0.0,-0.0019350309724892989,0.0
+case:gender,0.0,-0.006034673101859836,0.0
+case:german speaking,0.0,0.0016692014742484436,0.0
+case:married,0.0,-0.007445456708281577,0.0
+case:protected,0.0,0.4561427198265838,0.0
+yearsOfEducation_Elementary Education,0.0,0.0014840576866050562,0.0
+yearsOfEducation_Higher Education,0.0,0.0017144614715031436,0.0
+Real Estate Agent 5 -> Real Estate Agent 1,0.0,0.002479667303274865,0.0
+Real Estate Agent 5 -> Lawyer 3,0.0,0.002098159544860162,0.0
+Real Estate Agent 5 -> Lawyer 2,0.0,0.012716742337911854,0.0
+Real Estate Agent 5 -> Lawyer 1,0.0,0.010558481342950825,0.0
+Real Estate Agent 3 -> Lawyer 2,0.0,0.0018930365325688114,0.0
+Real Estate Agent 3 -> Lawyer 3,0.0,0.008826903209301021,0.0
+Real Estate Agent 3 -> Real Estate Agent 1,0.0,-0.0035136078393947848,0.0
+Real Estate Agent 3 -> Real Estate Agent 2,0.0,0.003612462979195452,0.0
+Real Estate Agent 3 -> Real Estate Agent 3,0.0,0.004335354345933125,0.0
+Real Estate Agent 3 -> Real Estate Agent 4,0.0,-0.019582534854634397,0.0
+Real Estate Agent 3 -> Real Estate Agent 5,0.0,-0.0035618307026742914,0.0
+Real Estate Agent 4 -> Hotline,0.0,-0.001870357368274684,0.0
+Real Estate Agent 4 -> Lawyer 1,0.0,0.008297861400234698,0.0
+Real Estate Agent 4 -> Lawyer 2,0.0,0.01533548091198984,0.0
+Real Estate Agent 4 -> Lawyer 3,0.0,-0.01150849011477208,0.0
+Real Estate Agent 4 -> Real Estate Agent 1,0.0,0.0027880946050710268,0.0
+Real Estate Agent 4 -> Real Estate Agent 2,0.0,0.00015545180246062754,0.0
+Real Estate Agent 4 -> Real Estate Agent 3,0.0,0.006938020332640929,0.0
+Real Estate Agent 4 -> Real Estate Agent 4,0.0,-0.027308054837850627,0.0
+Real Estate Agent 4 -> Real Estate Agent 5,0.0,-0.005091137221361344,0.0
+Real Estate Agent 5 -> Hotline,0.0,0.00020306227947207772,0.0
+Apply for Viewing Appointment -> Set Appointment,0.0,0.0,0.0
